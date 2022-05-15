@@ -3,7 +3,7 @@ So what we end up doing is attempting to build a model that just based on the im
 
 In real life, this may save doctors a lot of time by just running images into our model instead of having to manually look at these image’s themselves and determinant.
 
-## Problem Statement
+# Problem Statement:
 
 **Malaria Cell Classification**
 
@@ -25,3 +25,5 @@ Health Care
 - Python
 - Anaconda Jupyter Notebook
 
+# Blog:
+![](Screenshot 2022-05-15 143800.png)
